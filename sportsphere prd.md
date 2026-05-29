@@ -1,4 +1,4 @@
-# the MVP?Product Requirements Document (PRD)
+# Product Requirements Document (PRD)
 
 # Sports Sphere
 
